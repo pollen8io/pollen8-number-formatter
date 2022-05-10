@@ -1,0 +1,19 @@
+{
+  "name": "pollen8-number-formatter",
+  "version": "0.0.1",
+  "description": "Format numbers according to our schema setup. Packaged up to be shared between FE and BE",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pollen8io/pollen8-number-formatter.git"
+  },
+  "author": "Nathan Chicken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pollen8io/pollen8-number-formatter/issues"
+  },
+  "homepage": "https://github.com/pollen8io/pollen8-number-formatter#readme"
+}
